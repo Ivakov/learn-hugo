@@ -43,10 +43,6 @@
   </url>
   
   <url>
-    <loc>https://ivakov.github.io/learn-hugo/faq/</loc>
-  </url>
-  
-  <url>
     <loc>https://ivakov.github.io/learn-hugo/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
@@ -77,13 +73,13 @@
   </url>
   
   <url>
-    <loc>https://ivakov.github.io/learn-hugo/tags/programming/</loc>
+    <loc>https://ivakov.github.io/learn-hugo/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ivakov.github.io/learn-hugo/categories/programming/</loc>
+    <loc>https://ivakov.github.io/learn-hugo/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -116,6 +112,10 @@
     <loc>https://ivakov.github.io/learn-hugo/tags/theme/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ivakov.github.io/learn-hugo/faq/</loc>
   </url>
   
 </urlset>
