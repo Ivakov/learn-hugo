@@ -1,5 +1,5 @@
 +++
-title = "Linked post"
+title = "村落"
 date = "2015-10-02T21:49:20+02:00"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["programming"]
@@ -7,13 +7,14 @@ banner = "img/banners/banner-4.jpg"
 author = "John Doe"
 +++
 
-I'm a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
+村落（そんらく、英語: village, hamlet）とは、人口や家屋の密度が小さく、第一次産業に従事する人の割合が高い集落を指す学術用語。一般的には農村などの呼称が用いられることが多い。対義語は都市。
 
-    menu = "main"
+地理学的概念である集落に対して、村落は、人間関係の社会的・文化的な統合状態に基づく社会学的概念である。広義では地縁集団にも含まれるが、村落は、地縁集団に比べて、人間関係の社会的、文化的な自律的統合単位でなければならず、政治的な単位として形成されている地域社会の一種として位置づけられる。
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.
-
-Morbi varius ex vel justo dictum placerat. Sed ac arcu pretium, varius elit eget, gravida purus. Fusce sit amet massa mollis eros tincidunt sollicitudin. Suspendisse iaculis cursus mauris ut sagittis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas elit ligula, molestie quis magna eu, semper posuere lorem. Mauris a justo pharetra, congue ex eget, tincidunt massa. Maecenas sit amet neque lorem.
-
-Curabitur at elementum quam. Curabitur tristique elit non sapien aliquam vulputate. Vivamus in odio tincidunt, tempor sem quis, tincidunt lacus. Mauris pulvinar nunc sed tempus dictum. Nam vel arcu quis mi fermentum ullamcorper non ac lacus. Donec aliquet vitae ante at imperdiet. Aenean scelerisque venenatis urna, eget elementum risus convallis ac. Nullam gravida arcu lacus, non consectetur augue pretium non. Duis dignissim eros id urna pretium congue. Nullam eu magna in sem sollicitudin tempor. Pellentesque vel convallis ligula. Quisque semper, turpis a rhoncus efficitur, magna nibh iaculis elit, eget tempor dolor eros ut mi. Maecenas eu placerat lacus. Praesent congue pretium nulla, sed suscipit metus rutrum vel.
+# 分類
+* 農村  
+住民が主として農業に従事している村落。日本の村落の大半が農村である。柳田國男によれば、日本の農村の3分の2から4分の3は室町時代から始まったものとされ、網野善彦もこれを支持している[1]。なお現在日本の農業人口は2%以下である。
+* 漁村  
+住民が主として漁業に従事している村落。日本では、大半が漁業の他に農業も行う半農半漁村であり、漁業だけを行う純漁村は少ない。
+* 山村  
+山間にある村落。山村振興法では「林野面積の占める比率が高く、交通条件及び経済的、文化的諸条件に恵まれず、産業の開発の程度が低く、かつ、住民の生活文化水準が劣っている山間地その他の地域で政令で定める要件に該当するもの」と定義されている（山村振興法2条）。住民は林業と農業に従事している事が多い。農村と併せて農山村という。
