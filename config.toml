@@ -17,23 +17,23 @@ paginate = 10
 # Main menu
 
 [[menu.main]]
-    name = "Home"
+    name = "ホーム"
     url  = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
+    name = "ブログ"
     url  = "/blog/"
     weight = 2
 
 [[menu.main]]
-    name = "FAQ"
+    name = "よくある質問"
     identifier = "faq"
     url  = "/faq/"
     weight = 3
 
 [[menu.main]]
-    name = "Contact"
+    name = "お問い合わせ"
     url  = "/contact/"
     weight = 4
 
@@ -97,13 +97,10 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>日本</strong>
+    address = """<p><strong>FooBar Ltd.</strong>
+        <br>東京都
+        <br>千代田区
+        <br>千代田１−１
       </p>
       """
     latitude = "-12.043333"
@@ -144,8 +141,8 @@ paginate = 10
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    title = "お客様の声"
+    subtitle = "弊社サービスを採用いただいたお客様の声を掲載しております"
 
 [params.see_more]
     enable = true
@@ -160,10 +157,10 @@ paginate = 10
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Clients"
+    title = "導入事例"
     subtitle = ""
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "ニュースリリース"
+    subtitle = ""
